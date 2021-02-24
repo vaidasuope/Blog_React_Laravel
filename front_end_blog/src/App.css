@@ -1,0 +1,9 @@
+#headerBack{
+    background-image: url("img/nature-bg.jpg");
+}
+#postText{
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
