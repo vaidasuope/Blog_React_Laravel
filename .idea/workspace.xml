@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c05a4ca5-ac9a-45bf-9bb2-dcf5e57b99e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog" beforeDir="false" afterPath="$PROJECT_DIR$/blog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/app/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/app/Category.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/app/Post.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_blog/src/components/AllPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_blog/src/components/AllPost.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front_end_blog/src/components/OnePost.js" beforeDir="false" afterPath="$PROJECT_DIR$/front_end_blog/src/components/OnePost.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/blog/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -146,6 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614168436068</updated>
       <workItem from="1614168437219" duration="150000" />
+      <workItem from="1614195234780" duration="1813000" />
     </task>
     <servers />
   </component>
